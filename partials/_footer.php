@@ -2,7 +2,7 @@
   <div class="containerFooter">
     <div>
       Copyright ©2024 Vrecq Nathalie<br>
-      Version 1.0.4<br><br>
+      Version 1.0.5<br><br>
       <a href="pdf/CV-nathalie-vrecq.pdf" target="_blank" class="cv">Consulter le CV</a>
     </div>
     <div>
