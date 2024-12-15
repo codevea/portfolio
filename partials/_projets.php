@@ -10,7 +10,7 @@
       <div class="flip-card-back">
         <h3>Chatterie Des Jardins Persans</h3>
         <div>
-          L'application présente l'élevage familial de chats Persans et d’Exotic-Shorthair colourpoint avec un administration de gestion de contenu permettant la modification du contenu (textes et images).</div>
+          Présente l'élevage familial de chats Persans et d’Exotic-Shorthair avec un administration de gestion de contenu permettant la modification du contenu.</div>
         <div>
           <h4 class="hBlack">Thecnologies, animation et gestion des cookies</h4>
           <ul>

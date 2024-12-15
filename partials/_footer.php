@@ -1,7 +1,8 @@
 <footer>
   <div class="containerFooter">
     <div>
-      Copyright ©2024 Vrecq Nathalie<br><br>
+      Copyright ©2024 Vrecq Nathalie<br>
+      Version 1.0.0<br><br>
       <a href="pdf/CV-nathalie-vrecq.pdf" target="_blank" class="cv">Consulter le CV</a>
     </div>
     <div>
