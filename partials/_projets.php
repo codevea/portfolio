@@ -103,7 +103,7 @@
       <div class="flip-card-back">
         <h3>Clic et collecte</h3>
         <div>
-        Application dédiée au click and collect anti-gaspillage alimentaire.
+          Application dédiée au click and collect anti-gaspillage alimentaire.
         </div>
         <div>
           <h4 class="hBlack">Thecnologies, animation et gestion des cookies</h4>

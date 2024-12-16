@@ -7,9 +7,9 @@
 				<div>
 					<p class="textTimeline">
 						<a href="https://openbadgepassport.com/app/badge/info/837071" target="_blank"><img src="pictures/badge-fun-ia.webp"></a>
-					<span class="time">Novembre 2024</span>
-				</p>
-				<p class="lineBarreDeux"></p>
+						<span class="time">Novembre 2024</span>
+					</p>
+					<p class="lineBarreDeux"></p>
 					<h3>MOOC : À la recherche de l'Intelligence Artificielle</h3>
 					FUN - France Université Numérique - UJM Université Jean Monnet - Saint-Etienne
 				</div>
@@ -70,7 +70,7 @@
 						<span class="time">2016</span>
 					</p>
 					<p class="lineBarreDeux"></p>
-					<h3>Formation : Règlement sanitaire</h3> 
+					<h3>Formation : Règlement sanitaire</h3>
 					CNFPRO - Centre de formations professionnelles du SNPCC : Syndicat national des professions du chien et du chat.
 
 				</div>
