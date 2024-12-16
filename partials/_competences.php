@@ -79,7 +79,7 @@
     </div>
 
     <div class="textCompetence">
-      Il est parfois difficile de s'auto-évaluer sur des outils et des technologies même couramment utilisés, car cela reste une appréciation très personnelle et ne reflète pas forcément un regard extérieur. L'évolution constante dans le domaine du développement nous pousse constamment à nous remettre en question. C'est ce qui rend ce monde si intéressant !
+      Il est parfois difficile de s'auto-évaluer sur des outils et des technologies même couramment utilisés, car cela reste une appréciation très personnelle. De plus, l'évolution constante dans le domaine du développement nous pousse régulièrement à nous remettre en question, ce qui rend ce domaine si intéressant !
     </div>
   </div>
 

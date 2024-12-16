@@ -15,7 +15,6 @@
   <link rel="manifest" href="/site.webmanifest">
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
   <script src="./js/navone.js" defer></script>
-  <script src="./js/timeline.js" defer></script>
   <script src="./js/scroll.js" defer></script>
   <script src="https://kit.fontawesome.com/d50e22fcc0.js" crossorigin="anonymous" defer></script>
 </head>
