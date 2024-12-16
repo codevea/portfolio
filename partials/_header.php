@@ -30,7 +30,7 @@
     <div class="textCenter">
       <img src="pictures/image.webp" class="imageHeader">
       <h1>Nathalie Vrecq | <a href="https://github.com/codevea/portfolio-nathalie-vrecq" target="_blank"><i class="fa-brands fa-github"></i> Dépôt GitHub Portfolio</a>
-      </h1>
+    </h1>
     </div>
   </header>
   <nav class="nav">
