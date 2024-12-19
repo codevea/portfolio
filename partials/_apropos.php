@@ -10,6 +10,6 @@
     </p>
   </div>
   <div class="divImage">
-    <img src="pictures/profil.webp">
+    <img src="pictures/profil.webp" alt="photo de profil">
   </div>
 </div>

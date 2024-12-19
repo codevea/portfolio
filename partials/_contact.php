@@ -29,6 +29,6 @@
 </div>
 
   <div class="containerInformationContact">
-      <img src="pictures/contact.webp">
+      <img src="pictures/contact.webp"  alt="Représente un vieux ordinateur imagé avec un effet d'impression mosaïque réalisé avec le logiciel GIMP.">
   </div>
 </div>

@@ -11,7 +11,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
   <script src="./js/scroll.js" defer></script>
   <script src="https://kit.fontawesome.com/d50e22fcc0.js" crossorigin="anonymous" defer></script>
 </head>
@@ -24,7 +24,7 @@
       <img src="pictures/header-small.webp" alt="Représentant une impression mosaïque du profil d'une femme.">
     </picture>
     <div class="textCenter">
-      <img src="pictures/image.webp" class="imageHeader">
+      <img src="pictures/image.webp" alt="Représente la tête d'une femme avec une impression mosaïque réalisée avec le logiciel GIMP." class="imageHeader">
       <div>
         <h1>Nathalie Vrecq | Étudiant en informatique </h1>
         <h2>Développement d'applications</h2>  

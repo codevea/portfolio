@@ -1,5 +1,7 @@
 <?php include 'partials/_header.php'; ?>
 <article>
+  <h2 class="h2Article">Portfolio | Vrecq Nathalie</h2>
+
 
   <section class="sectionBlack" id="aPropos">
     <h2><i class="fa-solid fa-circle-user"></i> &nbsp; &nbsp; A propos de moi</h2>
@@ -41,7 +43,7 @@
   <div class="lineBarre"></div>
 
   <div id="scrollUp">
-    <a href="#top"><img src="pictures/to_top.webp"></a>
+    <a href="#top"><img src="pictures/to_top.webp" alt="Ascenseur"></a>
   </div>
 
 </article>

@@ -5,7 +5,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<a href="https://openbadgepassport.com/app/badge/info/837071" target="_blank"><img src="pictures/badge-fun-ia.webp"></a>
+						<a href="https://openbadgepassport.com/app/badge/info/837071" target="_blank"><img src="pictures/badge-fun-ia.webp"  alt="Badge de FUN du MOOC IA"></a>
 						<span class="time">Novembre 2024</span>
 					</p>
 					<p class="lineBarreDeux"></p>
@@ -16,7 +16,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<img src="pictures/attestation.webp">
+						<img src="pictures/attestation.webp"  alt="Reprensente l'image d'un fichier avec signature">
 						<span class="time">Novembre 2024</span>
 					</p>
 					<p class="lineBarreDeux"></p>
@@ -27,7 +27,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<a href="https://openbadgepassport.com/app/badge/info/796352" target="_blank"><img src="pictures/cned.webp"></a>
+						<a href="https://openbadgepassport.com/app/badge/info/796352" target="_blank"><img src="pictures/cned.webp"  alt="Badge de la CNED"></a>
 						<span class="time">Septembre 2024</span>
 					</p>
 					<p class="lineBarreDeux"></p>
@@ -38,7 +38,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<a href="https://www.codevea.com" target="_blank"><img src="pictures/codevea-logo.webp"></a>
+						<a href="https://www.codevea.com" target="_blank"><img src="pictures/codevea-logo.webp"  alt="logo du site codevea.com"></a>
 						<span class="time">Fevrier 2023</span>
 					</p>
 					<p class="lineBarreDeux"></p>
@@ -49,7 +49,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<img src="pictures/attestation.webp">
+						<img src="pictures/attestation.webp"  alt="Reprensente l'image d'un fichier avec signature">
 						<span class="time">Juillet 2018</span>
 					</p>
 					<p class="lineBarreDeux"></p>
@@ -60,7 +60,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<img src="pictures/attestation.webp">
+						<img src="pictures/attestation.webp"  alt="Reprensente l'image d'un certificat">
 						<span class="time">2016</span>
 					</p>
 					<p class="lineBarreDeux"></p>
@@ -71,7 +71,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<img src="pictures/certificat.webp">
+						<img src="pictures/certificat.webp"  alt="Reprensente l'image d'un fichier avec signature">
 						<span class="time">Décembre 2008</span>
 					</p>
 					<p class="lineBarreDeux"></p>
@@ -82,7 +82,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<a href="https://www.desjardinspersans.com" target="_blank"><img src="pictures/desjardinspersans-logo.webp"></a>
+						<a href="https://www.desjardinspersans.com" target="_blank"><img src="pictures/desjardinspersans-logo.webp" alt="logo de la  Chatterie Des Jardins Persans"></a>
 						<span class="time">Septembre 2008</span>
 					</p>
 					<p class="lineBarreDeux"></p>
