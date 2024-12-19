@@ -34,7 +34,7 @@
 
     <div class="containerCompetences">
       <div class="vsc">
-        <div>Visual Studio Code</div>
+        <div>Visual Studio</div>
         <div class="barreDeProgression"><img src="pictures/barre.webp"></div>
       </div>
       <div class="vc">

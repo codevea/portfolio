@@ -8,7 +8,7 @@
 Création d'un portfolio dans la cadre des études du ***BTS SIO Option SLAM*** : Services Informatiques aux Organisations, option Solutions Logicielles et Applications Métiers.
 
 
-![Copie d'ecran](pictures/portfolio-readme.webp)
+![Copie d'ecran](pictures/portfolio.webp)
 
 
 ## Version:
@@ -16,4 +16,4 @@ Création d'un portfolio dans la cadre des études du ***BTS SIO Option SLAM*** 
 |                |*Description*|*Tehcnologies*|
 |----------------|----------------|----------------|
 |1er version|`One-page statique`|Html, Sass/Css, PHP - JavaScript            |
-|2eme version|`"En cours"`|"En cours"|
+|2eme version|`"En cours"`| |
