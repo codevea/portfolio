@@ -1,6 +1,6 @@
 <div class="containerContact">
   <div class="containerFormulaireContact">
-    <!--<form action="action_page.php">
+    <!--<form action="action.php">
 
       <label for="fname">Nom - prenom</label>
       <input type="text" id="fname" name="firstname" placeholder="Votre nom..">
@@ -20,8 +20,11 @@
       Provence-Alpes-Côte d’Azur | Var 
     </p>
       <p>
-        <i class="fa-solid fa-mobile-screen-button"></i> &nbsp; &nbsp; 06 24 07 07 54<br>
-      <i class="fa-solid fa-phone"></i> &nbsp; &nbsp; 04 94 80 78 89
+      <i class="fa-solid fa-mobile-screen-button"></i>&nbsp; &nbsp; <a href="tel:+33624070754">06 24 07 07 54</a><br>
+      <i class="fa-solid fa-phone"></i>&nbsp; &nbsp; <a href="tel:+33494807889">04 94 80 78 89</a>
+    </p>
+    <p>
+      <i class="fa-solid fa-envelope"></i>&nbsp; &nbsp; <a href="https://www.codevea.com/formulaire-de-contact-de-codevea/nous-contacter" target="_blank">Contact e-mail</a>
     </p>
 </div>
 
