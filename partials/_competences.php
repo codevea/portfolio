@@ -57,7 +57,7 @@
 
     <div class="containerCompetences">
       <div class="symfony">
-        <div>Symfony 6 et 7</div>
+        <div>Symfony</div>
         <div class="barreDeProgression"><img src="pictures/barre.webp" alt="ligne decorative"></div>
       </div>
       <div class="vite">

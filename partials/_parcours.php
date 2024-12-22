@@ -16,7 +16,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<img src="pictures/attestation.webp"  alt="Reprensente l'image d'un fichier avec signature">
+						<img src="pictures/attestation.webp"  alt="Reprensente l'icone d'un fichier avec signature">
 						<span class="time">Novembre 2024</span>
 					</p>
 					<p class="lineBarreDeux"></p>
@@ -49,7 +49,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<img src="pictures/attestation.webp"  alt="Reprensente l'image d'un fichier avec signature">
+						<img src="pictures/attestation.webp"  alt="Reprensente l'icone d'un fichier avec signature">
 						<span class="time">Juillet 2018</span>
 					</p>
 					<p class="lineBarreDeux"></p>
@@ -60,7 +60,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<img src="pictures/attestation.webp"  alt="Reprensente l'image d'un certificat">
+						<img src="pictures/attestation.webp"  alt="Reprensente l'icone d'un fichier avec signature">
 						<span class="time">2016</span>
 					</p>
 					<p class="lineBarreDeux"></p>
@@ -71,7 +71,7 @@
 			<li>
 				<div>
 					<p class="textTimeline">
-						<img src="pictures/certificat.webp"  alt="Reprensente l'image d'un fichier avec signature">
+						<img src="pictures/certificat.webp"  alt="Reprensente l'icone d'un certificat">
 						<span class="time">Décembre 2008</span>
 					</p>
 					<p class="lineBarreDeux"></p>

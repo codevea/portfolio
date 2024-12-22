@@ -36,7 +36,7 @@
   </section>
 
   <section class="sectionWhite" id="contact">
-    <h2 class="h2Clair"><i class="fa-solid fa-code"></i> &nbsp; &nbsp; Contact</h2>
+    <h2 class="h2Clair"><i class="fa-solid fa-address-card"></i> &nbsp; &nbsp; Contact</h2>
     <?php include 'partials/_contact.php' ?>
   </section>
 
